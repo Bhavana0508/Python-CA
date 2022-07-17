@@ -1,3 +1,4 @@
+#Program to count occurance of digits, uppercase letters and lowercase letters in a string
 def check(string):
     lc_count = 0
     d_count = 0
